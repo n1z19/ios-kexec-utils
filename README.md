@@ -2,7 +2,7 @@
 
 ## Features
 
-* made by winocm and improved by axi0mX
+* made by n1z19
 
 * armv7 support for iOS 4.0-9.3.5 (requires a jailbreak with tfp0 kernel patch)
 
